@@ -1,0 +1,308 @@
+[
+  {
+    "date": "September 7, 2025",
+    "name": "Baltimore Ravens at Buffalo Bills",
+    "shortName": "BAL @ BUF",
+    "week": "Week 1",
+    "homeTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    },
+    "awayTeam": {
+      "teamID": "33",
+      "name": "Baltimore Ravens",
+      "abbreviation": "BAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png"
+    }
+  },
+  {
+    "date": "September 14, 2025",
+    "name": "Buffalo Bills at New York Jets",
+    "shortName": "BUF @ NYJ",
+    "week": "Week 2",
+    "homeTeam": {
+      "teamID": "20",
+      "name": "New York Jets",
+      "abbreviation": "NYJ",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png"
+    },
+    "awayTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    }
+  },
+  {
+    "date": "September 18, 2025",
+    "name": "Miami Dolphins at Buffalo Bills",
+    "shortName": "MIA @ BUF",
+    "week": "Week 3",
+    "homeTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    },
+    "awayTeam": {
+      "teamID": "15",
+      "name": "Miami Dolphins",
+      "abbreviation": "MIA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png"
+    }
+  },
+  {
+    "date": "September 28, 2025",
+    "name": "New Orleans Saints at Buffalo Bills",
+    "shortName": "NO @ BUF",
+    "week": "Week 4",
+    "homeTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    },
+    "awayTeam": {
+      "teamID": "18",
+      "name": "New Orleans Saints",
+      "abbreviation": "NO",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png"
+    }
+  },
+  {
+    "date": "October 5, 2025",
+    "name": "New England Patriots at Buffalo Bills",
+    "shortName": "NE @ BUF",
+    "week": "Week 5",
+    "homeTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    },
+    "awayTeam": {
+      "teamID": "17",
+      "name": "New England Patriots",
+      "abbreviation": "NE",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png"
+    }
+  },
+  {
+    "date": "October 13, 2025",
+    "name": "Buffalo Bills at Atlanta Falcons",
+    "shortName": "BUF @ ATL",
+    "week": "Week 6",
+    "homeTeam": {
+      "teamID": "1",
+      "name": "Atlanta Falcons",
+      "abbreviation": "ATL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png"
+    },
+    "awayTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    }
+  },
+  {
+    "date": "October 26, 2025",
+    "name": "Buffalo Bills at Carolina Panthers",
+    "shortName": "BUF @ CAR",
+    "week": "Week 8",
+    "homeTeam": {
+      "teamID": "29",
+      "name": "Carolina Panthers",
+      "abbreviation": "CAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png"
+    },
+    "awayTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    }
+  },
+  {
+    "date": "November 2, 2025",
+    "name": "Kansas City Chiefs at Buffalo Bills",
+    "shortName": "KC @ BUF",
+    "week": "Week 9",
+    "homeTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    },
+    "awayTeam": {
+      "teamID": "12",
+      "name": "Kansas City Chiefs",
+      "abbreviation": "KC",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png"
+    }
+  },
+  {
+    "date": "November 9, 2025",
+    "name": "Buffalo Bills at Miami Dolphins",
+    "shortName": "BUF @ MIA",
+    "week": "Week 10",
+    "homeTeam": {
+      "teamID": "15",
+      "name": "Miami Dolphins",
+      "abbreviation": "MIA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png"
+    },
+    "awayTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    }
+  },
+  {
+    "date": "November 16, 2025",
+    "name": "Tampa Bay Buccaneers at Buffalo Bills",
+    "shortName": "TB @ BUF",
+    "week": "Week 11",
+    "homeTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    },
+    "awayTeam": {
+      "teamID": "27",
+      "name": "Tampa Bay Buccaneers",
+      "abbreviation": "TB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png"
+    }
+  },
+  {
+    "date": "November 20, 2025",
+    "name": "Buffalo Bills at Houston Texans",
+    "shortName": "BUF @ HOU",
+    "week": "Week 12",
+    "homeTeam": {
+      "teamID": "34",
+      "name": "Houston Texans",
+      "abbreviation": "HOU",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png"
+    },
+    "awayTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    }
+  },
+  {
+    "date": "November 30, 2025",
+    "name": "Buffalo Bills at Pittsburgh Steelers",
+    "shortName": "BUF @ PIT",
+    "week": "Week 13",
+    "homeTeam": {
+      "teamID": "23",
+      "name": "Pittsburgh Steelers",
+      "abbreviation": "PIT",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png"
+    },
+    "awayTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    }
+  },
+  {
+    "date": "December 7, 2025",
+    "name": "Cincinnati Bengals at Buffalo Bills",
+    "shortName": "CIN @ BUF",
+    "week": "Week 14",
+    "homeTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    },
+    "awayTeam": {
+      "teamID": "4",
+      "name": "Cincinnati Bengals",
+      "abbreviation": "CIN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png"
+    }
+  },
+  {
+    "date": "December 14, 2025",
+    "name": "Buffalo Bills at New England Patriots",
+    "shortName": "BUF @ NE",
+    "week": "Week 15",
+    "homeTeam": {
+      "teamID": "17",
+      "name": "New England Patriots",
+      "abbreviation": "NE",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png"
+    },
+    "awayTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    }
+  },
+  {
+    "date": "December 21, 2025",
+    "name": "Buffalo Bills at Cleveland Browns",
+    "shortName": "BUF @ CLE",
+    "week": "Week 16",
+    "homeTeam": {
+      "teamID": "5",
+      "name": "Cleveland Browns",
+      "abbreviation": "CLE",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png"
+    },
+    "awayTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    }
+  },
+  {
+    "date": "December 28, 2025",
+    "name": "Philadelphia Eagles at Buffalo Bills",
+    "shortName": "PHI @ BUF",
+    "week": "Week 17",
+    "homeTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    },
+    "awayTeam": {
+      "teamID": "21",
+      "name": "Philadelphia Eagles",
+      "abbreviation": "PHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png"
+    }
+  },
+  {
+    "date": "January 4, 2026",
+    "name": "New York Jets at Buffalo Bills",
+    "shortName": "NYJ @ BUF",
+    "week": "Week 18",
+    "homeTeam": {
+      "teamID": "2",
+      "name": "Buffalo Bills",
+      "abbreviation": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+    },
+    "awayTeam": {
+      "teamID": "20",
+      "name": "New York Jets",
+      "abbreviation": "NYJ",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png"
+    }
+  }
+]
