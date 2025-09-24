@@ -13,9 +13,9 @@ function Card(props) {
                     <p className="team-name"><strong>{ props.awayTeamName }</strong></p>
                 </div>
             </div>
-            <div>
-                <h3>{ props.eventName }</h3>
-                <h3>{ props.date }</h3>
+            <div className="game-details">
+                <p><strong>Game: </strong>{ props.eventName }</p>
+                <p><strong>Date: </strong> { props.date }</p>
                 <button>More Details</button>
             </div>
         </div>
