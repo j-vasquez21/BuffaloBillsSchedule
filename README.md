@@ -10,19 +10,19 @@ Time spent: **7** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ X ] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [ X ] Header/title describing the theme is displayed
-- [ X ] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [ X ] There are at least 10 cards displayed 
-  - [ X ] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [ X ] Each card should include some information about the event or resource
+- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [x] Header/title describing the theme is displayed
+- [x] **At least 10 unique events or resources are displayed in a responsive card format**
+  - [x] There are at least 10 cards displayed 
+  - [x] The cards should be displayed in an organized format (ex. a grid, or in one line)
+  - [x] Each card should include some information about the event or resource
 
 
 The following **optional** features are implemented:
 
 - [ ] Buttons or links to a related resources are on each card component
-  - [ X ] All cards have buttons or links in addition to text
-- [ ? ] The site is responsive for both desktop and mobile formats
+  - [x] All cards have buttons or links in addition to text
+- [?] The site is responsive for both desktop and mobile formats
   - [ ] Web app is shown in a mobile format
   - [ ] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. 
 
@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![demo](./public/project1-walkthrough.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
