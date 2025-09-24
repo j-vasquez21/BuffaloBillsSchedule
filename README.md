@@ -1,28 +1,28 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Buffalo Bills 2025 Games*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jerry Vasquez**
 
-This web app: **insert description**
+This web app: **Lists the games that the Buffalo Bills will play in the 2025-2026 NFL season**
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [ ] Header/title describing the theme is displayed
-- [ ] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [ ] There are at least 10 cards displayed 
-  - [ ] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [ ] Each card should include some information about the event or resource
+- [ X ] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [ X ] Header/title describing the theme is displayed
+- [ X ] **At least 10 unique events or resources are displayed in a responsive card format**
+  - [ X ] There are at least 10 cards displayed 
+  - [ X ] The cards should be displayed in an organized format (ex. a grid, or in one line)
+  - [ X ] Each card should include some information about the event or resource
 
 
 The following **optional** features are implemented:
 
 - [ ] Buttons or links to a related resources are on each card component
-  - [ ] All cards have buttons or links in addition to text
-- [ ] The site is responsive for both desktop and mobile formats
+  - [ X ] All cards have buttons or links in addition to text
+- [ ? ] The site is responsive for both desktop and mobile formats
   - [ ] Web app is shown in a mobile format
   - [ ] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. 
 
@@ -47,9 +47,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+For this project, their were two challenges that took most of my time trying to overcome. The first was getting data from an api, navigating the data, and extracting the data that was a relevant. I have only recently learned how to use fetch and await to make requests from an api so I still need more practice in this area. Navigating the response of the api call was also overwhelming in the way that it contained lots of information that I did not really need which made finding what data I did need difficult. The second challenge that I faced was styling the web page. CSS is not my strong suit by any means so I struggled with styling the elements especially positioning. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 CodePath
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
